@@ -1,0 +1,187 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="illiumcafe.com" resolutions="1x,2x" timestamp="1510077480119">
+  <folder name="css">
+    <file name="site_global.css" crc="4217085195"/>
+    <file name="master_heading.css" crc="3848872752" ref="contact:catering:index:menu:about:news"/>
+    <file name="contact.css" crc="292278170" ref="contact"/>
+    <file name="catering.css" crc="29862788" ref="catering"/>
+    <file name="index.css" crc="3886133469" ref="index"/>
+    <file name="menu.css" crc="202021755" ref="menu"/>
+    <file name="about.css" crc="4307140" ref="about"/>
+    <file name="news.css" crc="3956980126" ref="news"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>menu:phone>catering:phone>news:phone>contact:about:news:contact:catering:index:menu"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>about:phone>menu:phone>catering:phone>news:phone>contact:about:news:contact:catering:index:menu"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>menu:phone>catering:phone>news:phone>contact:about:news:contact:catering:index:menu"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>about:phone>menu:phone>catering:phone>news:phone>contact:about:news:contact:catering:index:menu"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:about:news:contact:catering:index:menu"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>about:phone>menu:phone>catering:phone>news:phone>contact:about:news:contact:catering:index:menu"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:about:contact:index:menu"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:about:index:menu"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:about:index:menu"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:about:index:menu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>menu:phone>catering:phone>news:phone>contact:about:news:contact:catering:index:menu"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>about:phone>menu:phone>catering:phone>news:phone>contact:about:news:contact:catering:index:menu"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u2169.php" crc="249987668" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="illium-crop-u5552.png" crc="3895194665" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illium-crop-u5552_2x.png" crc="3799201820" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wechatimg5.jpg" crc="113654872" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:about:index"/>
+    <file name="c700x420.jpg" crc="20212903" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bc0db6986b5e945c14abc8f71ed99bb9_1449815611.jpg" crc="4242519031" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="porkandegg.jpg" crc="347072869" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="codpeachsalad.jpg" crc="207102374" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frenchtoast.jpg" crc="4263135470" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:about:index"/>
+    <file name="img_4018-crop-u6102.jpg" crc="384997818" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4018-crop-u6102_2x.jpg" crc="496354797" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illium-crop-u6121.jpg" crc="4140644779" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illium-crop-u6121_2x.jpg" crc="354218469" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-logo_318-4994022x22.jpg" crc="3866343120" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-logo_318-49940_2x.jpg" crc="3862584282" seo="true" ref="phone>index:about:news:contact:catering:index:menu">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="catering" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="glyph-logo_may2016_20022x22.png" crc="443401487" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glyph-logo_may2016_200_2x.png" crc="4080407799" seo="true" ref="phone>index:about:news:contact:catering:index:menu">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="catering" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="illium-crop-u957.png" crc="93092662" seo="true" ref="about:news:contact:catering:index:menu">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="catering" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="illium-crop-u957_2x.png" crc="277345063" seo="true" ref="about:news:contact:catering:index:menu">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="catering" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="ortega-fish-750-crop-u1982.jpg" crc="163377175" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dsc_8459.jpg" crc="4070414517" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dsc_8459_2x.jpg" crc="3849005796" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="1.jpg" crc="449659468" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="untitled-901-of-912-32e6hc8j0x6xr568e9hwjk.jpg" crc="4131909060" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="facebook-logo_318-49940.jpg" crc="3862584282" seo="true" ref="about:news:contact:catering:index:menu">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="catering" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="glyph-logo_may2016_200.png" crc="4080407799" seo="true" ref="about:news:contact:catering:index:menu">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="catering" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="menu" alt=""/>
+    </file>
+    <file name="illium-crop-u4761.jpg" crc="423072565" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="illium-crop-u4761_2x.jpg" crc="136755420" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="illium-cheee-crop-u4758.jpg" crc="462348793" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="illium-crop-u4263.jpg" crc="60826500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4018-crop-u4250.jpg" crc="4011264514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4018-crop-u4250_2x.jpg" crc="3914537353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3765527466" ref="phone>index"/>
+      <file name="news.css" crc="62426684" ref="phone>news"/>
+      <file name="about.css" crc="62426684" ref="phone>about"/>
+      <file name="contact.css" crc="62426684" ref="phone>contact"/>
+      <file name="menu.css" crc="62426684" ref="phone>menu"/>
+      <file name="catering.css" crc="62426684" ref="phone>catering"/>
+    </folder>
+    <file name="index.html" crc="209744678" seo="true" mt="1479755591161" redirect="true"/>
+    <file name="about.html" crc="193941248" seo="true" mt="1479755591161" redirect="false"/>
+    <file name="menu.html" crc="376755953" seo="true" mt="1479755591161" redirect="false"/>
+    <file name="catering.html" crc="33024719" seo="true" mt="1479755591161" redirect="false"/>
+    <file name="news.html" crc="4055290225" seo="true" mt="1479755591161" redirect="false"/>
+    <file name="contact.html" crc="90563478" seo="true" mt="1479755591161" redirect="false"/>
+  </folder>
+  <file name="about.html" crc="205696401" seo="true" mt="1479581631300" redirect="true"/>
+  <file name="news.html" crc="3888362965" seo="true" mt="1479581631300" redirect="true"/>
+  <file name="contact.html" crc="35112505" seo="true" mt="1479581631300" redirect="true"/>
+  <file name="catering.html" crc="3834591940" seo="true" mt="1479581631300" redirect="true"/>
+  <file name="index.html" crc="4261868397" seo="true" mt="1479581631300" redirect="true"/>
+  <file name="menu.html" crc="4113673678" seo="true" mt="1486972308402" redirect="true"/>
+</manifest>
